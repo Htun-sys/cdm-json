@@ -1,0 +1,12 @@
+[
+ {
+   "name": "John",
+   "address": "1st Street",
+   "status": true
+ },
+ {
+   "name": "Susan",
+   "address": "2nd Street",
+   "status": false
+ }
+]
