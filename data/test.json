@@ -64,7 +64,7 @@
 		"id": "3",
 		"heading": "I. The Roles",
 		"subheading": "Physical-based Classes",
-		"contentheading": "Introduction-PBC",
+		"contentheading": "Introduction-Physical Classes",
 		"content": {
 			"hk": ["The physically-based classes are often the young men and women who appears in the photos of protests --- in black-bloc to protect their identities, with goggles and respirators.",
 				"For us, they appeared after a month of protests, when a million and then two millions of the city came out to peaceful marches and was met with violence by the police.",
@@ -98,5 +98,97 @@
 				"HK ရဲတွေက ရာဘာကျည်ဆံတွေ၊ မျက်ရည်ယိုဗုံးတွေနဲ့ ရေတွေကို သုံးပါတယ်။ စစ်တပ်ကို ဆန့်ကျင်ရတဲ့အတွက် ဒီအုပ်စုရဲ့ စွန့်စားရမှုနှုန်းကလည်း မြင့်ပါတယ်။"
 			]
 		}
+	},
+	{
+		"id": "5",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "2. Fire Magicians",
+		"content": {
+			"hk": ["Current table is still under development."],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါတယ်"]
+		}
+	},
+	{
+		"id": "6",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "3. Fire-fighters",
+		"content": {
+			"hk": ["“Fire-fighters” are the front-liners who specializes in taking out tear-gas shots as quickly as possible.",
+				"They are usually equipped with as good tear-gas protection gear as possible, which includes:(1) air-tight goggles,(2) respirators with 60926 cartridges (multi-gas / vapor + P100 filter)",
+				"And specific equipment that includes:(3) heat-proof gloves, and(4) 2--5 L waterproof bags, half or ¾ filled with water.",
+				"They try to approach the freshly shot canister, dunk it in the waterproof bag and seal it off.  This takes out the canister completely and works much better than either squirting water on it or covering it with traffic cones.",
+				"Fire-fighters share the same hazards as other front-liners, with the additional chemical irritation from tear-gas on skin."
+			],
+			"mm": ["မီးသတ်သမားတွေက မျက်ရည်ယိုဗုံး  တိုက်ခိုက်မှုတွေကို မြန်နိုင်သမျှ မြန်မြန်လုပ်နိုင်စွမ်း ရှိတဲ့ ရှေ့တန်းက လူတွေ ဖြစ်ပါတယ်။",
+				"သူတို့ကိုယ်၌မှာတော့ မျက်ရည်ယိုဗုံး  အကာအကွယ်တွေ ဖြစ်တဲ့ (၁) လေကာ၊ နေကာမျက်မှန်တွေ(၂) ယမ်းတောင့် ၆၀၉၂၆  ခု ပါတဲ့ အသက်ရှုစက်တွေ (ဓာတ်ငွေ့အမျိုးမျိုး၊ လေငွေ့နဲ့ P100 အငွေ့စစ်ကိရိယာ) တွေ ဆောင်ထားလေ့ ရှိကြပါတယ်။",
+				"အထူးတလည် အနေနဲ့ (၃) အပူခံ လက်အိတ်တွေနဲ့(၄) ၂လီတာကနေ ၅လီတာထိရှိပြီး တစ်ဝက် ဒါမှမဟုတ် ၄ပုံ ၃ပုံကို ရေဖြည့်ထားတဲ့ ရေစိုခံအိတ်တွေ ဆောင်ထားတတ်ပါတယ်။",
+				"သူတို့က လတ်လတ်ဆတ်ဆတ် ဖောက်ခွဲထားတဲ့ မျက်ရည်ယိုဓာတ်ငွေ့ ထည့်ထားတဲ့ ကိရိယာ (ကျည်ဖူး/ဘူး) ကို ရေစိုခံအိတ်ထဲကို နှစ်ပြီး အလုံပိတ်ဖို့ ကြိုးစားပါတယ်။ အဲတာက ရေဖြန်းချတာ၊ လမ်းတားကိရိယာနဲ့ အပေါ်ကနေ အုပ်ချလိုက်တာတွေထက် အများကြီး ပိုအဆင်ပြေပါတယ်။",
+				"မီးသတ်သမားတွေအဖို့ တစ်ခြား ရှေ့တန်းက လူတွေလိုပဲ အန္တရာယ်တွေ ကြုံတွေ့လာရနိုင်ပြီး ထပ်ဆောင်းပြောရရင် မျက်ရည်ယို ဓာတ်ငွေ့ကြောင့် အသားအရည် စပ်ဖျင်းဖျင်း ဖြစ်တာမျိုးတွေလည်း ကြုံတွေ့လာရနိုင်ပါတယ်။"
+
+			]
+		}
+	},
+	{
+		"id": "7",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "4. Seal-makers",
+		"content": {
+			"hk": ["Early in the movement (June 2019), HK had freedom of assembly, and marches/protests are allowed. This is when million/millions strong marches happened.Soon the State forbids public assembly of more than three people, and forcibly terminate protest marches.Citizens continue to march, despite the threat of arrests and closure of public transport (esp MTR, the underground subway).",
+				"One popular tactic of the police was to base inside the subway stations, and emerge suddenly to attack (tear-gas / shoot).  If their initial assault were successful then they would occupy the route and break a march into multiple sections.",
+				"The seal-makers is a response to these “surprise attacks”.  They carry additional chains and padlocks / bike locks, and double-lock these gates/subway stations so the police cannot burst from underground.  Generally these locks are applied at overhead heights, so that grinding machines / lock-picking will take more time to be setup and thus giving the public more time to respond."
+			],
+			"mm": ["လှုပ်ရှားမှုရဲ့ အစပိုင်း (ဇွန် ၂၀၁၉)မှာတော့ ဟောင်ကောင်မှာ လွတ်လပ်စွာ စုဝေးခွင့် (စီတန်းလှည့်လည်ခွင့်၊ ဆန္ဒပြခွင့်ရှိပါ သေးတယ်။ လူသန်းပေါင်းများစွာ ပါဝင်တဲ့ စီတန်းမှုတွေ ရှိခဲ့တုန်းကပါ။ နောက်ပိုင်းမှာတော့ အစိုးရက လူသုံးဉီးထပ် ပိုမစုရ ဆိုတဲ့ အမိန့်တွေ ထုတ်ခဲ့ပြီးတော့ စီတန်းသူတွေကို အင်အားသုံးဖြိုခွင်းခဲ့ပါတယ်။ ဖမ်းဆီးဖို့ခြိမ်းခြောက်မှုတွေ၊ အများသုံး သယ်ယူပို့ဆောင်မှု (မြေအောက်ရထား၊ မီးရထား) တွေ ပိတ်ထားတဲ့ ကြားထဲက ပြည်သူတွေကတော့ ဆက်လက် စီတန်းလှည့်လည်ခဲ့ကြပါတယ်။",
+				"ရဲတွေ အသုံးများတဲ့ နည်းလမ်းတစ်ခုကတော့ မြေအောက်မီးရထား ဘူတာရုံတွေမှာ ခြေကုတ်ယူပြီး ပြည်သူတွေကို မျက်ရည်ယိုဗုံးတွေ၊ သေနပ်နဲ့ ပစ်ပြီးဖြိုခွင်းတာတွေပါ။ သူတို့ဖြိုခွင်းလို့ အောင်မြင်သွားရင်တော့ လမ်းတွေကို စီးနင်းပြီး စီတန်းသူတွေကို အုပ်စုကွဲအောင် လုပ်တာပါဘဲ။",
+				"ချိတ်ပိတ်သူ တွေကတော့ အဲ့လို ရုတ်တရက် ရဲတွေရဲ့ oတိုက်ခိုက်မှုကို တန်ပြန်တိုက်စစ်ဆင်ပါတယ်။ သူတို့က အမြဲ သော့နဲ့ ချိန်းကြိုးတွေ၊ စက်ဘီး ခတ်တဲ့ ချိန်းသော့တွေကို အမြဲဆောင်ထားကြပါတယ်။ ပြီးတော့ ရဲတွေ ခြေကုတ်ယူထားတဲ့ ဂိတ်ပေါက်တွေကို ချိန်းကြိုးတွေ သော့တွေ အသုံးပြုပြီး ပိတ်ကြပါတယ်။ ပိတ်ရင်လည်း ဂိတ်တွေ ရဲ့ အမြင့်ဆုံး နေရာတွေကနေ သော့ပိတ်ပါတယ်။ အဲ့လို ပိတ်ခြင်းအားဖြင့် ရဲတွေက သော့ဖွင့်ဖို့နဲ့ အမြင့်တတ်ဖို့ကို ပြုလုပ်ရမှာ ဖြစ်တဲ့ အတွက် အချိန် သုံး ရခြင်းအားဖြင့် ပြည်သူတွေ အတွက် အချိန် ပိုရစေပါတယ်။"
+			]
+		}
+	},
+	{
+		"id": "8",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "5. Engineers",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "9",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "6. Water Magicians",
+		"content": {
+			"hk": ["A sub-class of frontliners, there are different kinds of water magicians.  Some fill up water-balloons with paint, throwing them at the goons as to cover up their helmet visors. Some launch caustic liquids.",
+				"These are not very effective in a head-on confrontation, because their projectiles have far shorter ranges than firearms."
+			],
+			"mm": ["ရှေ့တန်းသမား အခွဲတွေထဲမှာ Water magicians (သူတို့ ပေးထားတဲ့ နာမည်ဝှက်) အမျိုးမျိုး ပါတယ်။ သူတို့တွေထဲက တစ်ချို့ကတော့ ကြေးစားလူမိုက်တွေကို ရောင်စုံဆေးရေးတွေ ဖြည့်ထားတဲ့ ရေဘောလုံးတွေနဲ့ ပစ်ပေါက်ပြီး ခေါင်းဆောင်းအကာက မှန်တွေ ဝေဝါးသွားပြီး မမြင်ရတော့အောင်လို့ လုပ်ကြတယ်။ တစ်ချို့တစ်လေတွေဆို အန္တရာယ်ရှိတဲ့ ဓာတုဆေးရည်တွေပါ ထည့်သုံးကြမျိုး အထိ ရှိပါတယ်",
+				"ရေဘောလုံး ပစ်တာက သေနတ်ပစ်တာလောက် အဝေးမရောက်နိုင်လို့ ဒီနည်းလမ်းတွေက ထိပ်တိုက်ရင်ဆိုင်ရတဲ့ ပဋိပက္ခတွေအတွက် သိပ်တော့ ကောင်းကျိုးမရှိနိုင်ပါဘူး။"
+			]
+		}
+	},
+	{
+		"id": "10",
+		"heading": "I. The Roles",
+		"subheading": "Physical-based Classes",
+		"contentheading": "7/8. Black Magicians / Critter Magicians",
+		"content": {
+			"hk": ["This is taboo.But effective.",
+				"To deter military advancement, a specialized group ferments secret magic potions.  When the bottle is broken on the ground it slows or completely stops passage (by both sides). When the bottle is thrown at a character, the character is disabled.",
+				"This magic potion requires great dedication and very understanding family members.",
+				"It’s poop, sometimes with milk and yogurt, fermented in the tropical heat. The Black Magicians experimented with different recipes, with a special composition for each occasion.Oh budding Black Magicians beware!It is known to explode from pressure in the brewing process.That’s  shitty."
+			],
+			"mm": ["ဒါကတော့ တားမြစ်ချက်ဖြစ်ပေမယ့် သက်ရောက်မှုရှိပါတယ်",
+				"အထူးအဖွဲ့အစည်းက စစ်တပ်ကို တားမြစ်ဖို့အတွက် လျှို့ဝှက်မှော်ပီယဆေး(အောက်လမ်းနည်း)တွေကို ဖော်စပ်ကြတယ်။ မြေပြင်ကို ပေါက်လိုက်ရင် အဲ့နားမှာရှိတဲ့ နှစ်ဖက်လုံးက လူတွေကို နှေးသွားစေ ရပ်သွားစေတယ် တစ်ယောက်ယောက်ကို ပစ်လိုက်ရင် အဲ့တစ်ယောက်ကို မသန်မစွမ်းဖြစ်သွားစေနိုင်တယ်",
+				"အဲ့ပီယဆေး(အောက်လမ်းနည်း)ကို ဖော်မယ်ဆိုရင်တော့ အဓိဌာန်ကြာရှည်ဝင်ရပြီး နားလည်ပြီးလုပ်တတ်တဲ့၊ မျိုးရိုးအလိုက်ဆင်းသက်လာတဲ့သူတွေလုပ်တာပိုကောင်းပါတယ်",
+				"တစ်ခါတစ်လေ နွားနို့နဲ့ ဒိန်ချဉ်ကို အပူပိုင်းဒေသကအပူနဲ့ ကစော်ဖောက်ပြီး သုံးတာရှိတယ် အောက်လမ်းမှော်ဆရာတွေက အချိန်အခါအလိုက် အထူးဖော်စပ်နည်းအမျိုးမျိုးကိုစမ်းသပ်ဖော်စပ်ကြတယ် တက်သစ်စ မှော်ဆရာတွေကတော့ အထူးတလည်သတိပြုပါ။ အခက်မသင့်ရင် ကိုယ့်ဆီပြန်ထိနိုင်တယ်"
+			]
+		}
 	}
+
+
+
 ]
