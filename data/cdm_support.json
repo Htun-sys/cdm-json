@@ -375,12 +375,20 @@
       "facebook": "https://www.facebook.com/Thanbyuzayat-CDM-Supporting-Team-108024921328227",
       "contacts": ""
    },
-  {
+   {
       "id": "048",
       "region": "YGN",
       "town": "ရန်ကုန်",
       "name": "ပီတိ - PiTi",
       "facebook": "https://www.facebook.com/piticdmovement/",
       "contacts": "09 7686 00860"
+   },
+   {
+      "id": "049",
+      "region": "YGN",
+      "town": "ရန်ကုန်",
+      "name": "CDM Medium",
+      "facebook": "https://www.facebook.com/CDM-Medium-100780748722761/",
+      "contacts": ""
    }
 ]
