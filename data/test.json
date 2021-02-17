@@ -1,35 +1,38 @@
-[
-{
-	"id":"1",
-	"heading":"Introduction",
-	"subheading":"Preface",
+[{
+	"id": "1",
+	"heading": "Introduction",
+	"subheading": "Preface",
 	"contentheading": "Introduction to the Manual",
-	"content":{ "hk": ["Dear brothers and sisters in Myanmar, We are part of the Resistance in Hong Kong, and we look at what is happening to you in Myanmar with concern and great sadness.  We share your values, and stand with you in the fight for a just and free society.", 
-			"Our situations are different, but you may need to steel yourselves for a protracted struggle --- esp since the military seemingly has the blessing of the CCP.  There is a semblance with Belarus which has Putin's blessing; they, like us, were buoyant in the first months but also saw 			brutal and prolonged crack-down.  Civil disobedience 				doubles the odds for toppling dictatorial regimes, but that is still a coin-toss 54% after 5 years.  Of course, after 24 years, you know",
+	"content": {
+		"hk": ["Dear brothers and sisters in Myanmar, We are part of the Resistance in Hong Kong, and we look at what is happening to you in Myanmar with concern and great sadness.  We share your values, and stand with you in the fight for a just and free society.",
+			"Our situations are different, but you may need to steel yourselves for a protracted struggle --- esp since the military seemingly has the blessing of the CCP.  There is a semblance with Belarus which has Putin's blessing; they, like us, were buoyant in the first months but also sawbrutal and prolonged crack-down. Civil disobedience doubles the odds for toppling dictatorial regimes, but that is still a coin-toss 54% after 5 years. Of course, after 24 years, you know",
 			"One of the guiding spirit for the HK19 protests is being free from dogma. How would you know something doesn’t work  if you don’t try?  We tried many crazy things.  Most were just crazy :)",
-			"Some initiatives were helpful and helped sustain and propel the movement.  Many of these manage to stay away from the spotlight (very good when you are trying to survive); even those that gets picked up by the press usually focus on the What and seldom the How.,
-			The Hows are hard-won.  None of us knew what we were doing, and we made mistakes and took many false turns.",
+			"Some initiatives were helpful and helped sustain and propel the movement.  Many of these manage to stay away from the spotlight (very good when you are trying to survive); even those that gets picked up by the press usually focus on the What and seldom the How.",
+			"The Hows are hard - won.None of us knew what we were doing, and we made mistakes and took many false turns.",
 			"Here we try to give you an insider’s view of that How, so you will not need to make the same mistakes we did.",
 			"Be careful.  Hong Kong is a very dense city, under the international limelight everywhere, hyper-connected digitally, and resource-rich.  (The same also applies, to a greater extent, to the CCP-puppet government!)  Our situation is thus very different.  We also try to protect, to some extent, our sources and methods, and not every thing is spelt out clearly.  You will need to adapt the Hows and solve some problems.",
-			"This Manual has two parts:The first part describes 60 unique roles that was present in the HK19 movement.
-			The second part is the How by protestors in each role.  (Not all of us is around any more, so coverage is probably slow and patchy.)",
+			"This Manual has two parts:The first part describes 60 unique roles that was present in the HK19 movement.",
+			"The second part is the How by protestors in each role.(Not all of us is around any more, so coverage is probably slow and patchy.)",
 			"We also have setup a public Q&A for us to have a conversation, mediated through English-Burmese translators.  (Thank you translators for your hardwork.)To keep links easy to find, they are placed in the right-most column.  Like the Q&A!",
 			"There is a role for everyone, regardless of their age, gender, wealth, or education.  Resistance truly takes a city (or a country).",
-			"Take care.  May Peace and Unity be with you."],			
-	 	        "mm": ["ချစ်ခင်ရတဲ့ ညီအစ်ကို မောင်နှမတို့ရေ…ငါတို့က ဟောင်ကောင်တော်လှန်ရေးမှာ တစ်ထောင့်တစ်နေရာက ပါဝင်ဆင်နွှဲခဲ့ကြသူတွေ ဖြစ်ပါတယ်။ အခု မင်းတို့နိုင်ငံမှာ ဖြစ်ပေါ်နေတဲ့ အခြေအနေ အရပ်ရပ်နဲ့ ပတ်သက်ပြီး စိုးရိမ်ပူပန်ပြီး	စိတ်မကောင်းဖြစ်မိပါတယ်။ ဒါ ကြောင့် လွတ်လပ်ပြီး တရားမျှတတဲ့ အဖွဲ့အစည်းတစ်ခု ပြန်ဖြစ်လာဖို့အတွက် ငါတို့တွေ မင်းတို့နဲ့အတူ ဒီတိုက်ပွဲမှာ ရပ်တည်သွားပါမယ်။",
-	 	   	"တို့ဟောင်ကောင်က အခြေအနေနဲ့ မြန်မာက အခြေအနေ နဲ့တော့ မတူပါဘူး။ ဒါပေမယ့် ရေရှည်တိုက်ပွဲ အတွက် ကိုယ့်ကိုယ် စိတ်ဓာတ်ခိုင်မာအောင် ပြင်ဆင်ထားဖို့ လိုအပ်ပါတယ်။ အထူးသဖြင့် စစ်တပ်က တရုတ်ကွန်မြူနစ် ပါတီ (CCP)ရဲ့ အထောက်အပံ့တွေ ရထားတဲ့အတွက် ပိုလိုအပ်ပါတယ်။ ပူတင်ရဲ့ 	အထောက်အပံ့တွေ ရရှိခဲ့တဲ့ ဘီလာရုနိုင်ငံ မှာလည်းအလားတူဖြစ်ရပ် ရှိခဲ့ဖူးပါတယ်။ ပထမတစ်လမှာတော့ ငါတို့လိုပဲ အခြေအနေ သိပ်မဆိုးဝါးသယောင် ရှိခဲ့ပေမယ့် နောက်ပိုင်းမှာတော့ ရက်စက်ကြမ်းကြုတ် အကြမ်းဖက်မှုတွေ ရေရှည်ပိတ်ဆို့ ဖိနှိပ်မှုတွေကို သူတို့ကြုံခဲ့ ရပါတယ်။ ပြည်သူ့ဝန်ထမ်းများ အလုပ်မသွားဘဲ သပိတ်မှောက်ခြင်းကလည်း အာဏာရှင် အစိုးရကိုဖြိုဖျက်ဖို့ အခွင့်အရေးကို နှစ်ဆဖြစ်စေ နိုင်ပါတယ်။ ဒါပေမယ့် အခြေအနေက ခေါင်းပန်းလှန်နေသလိုဖြစ်နေနိုင်ပြီး ၅ နှစ်လောက်ကြာပြီးမှ ၅၄%  လောက်ပုံစံမျိုး ဖြစ်နေနိုင်ပါတယ်။ ၂၄ နှစ်လောက်ကြာပြီးတဲ့နောက် မင်းတို့လည်း သိပါတယ်။",
-	 	   	"HK19 တော်လှန်ရေးအတွက် လမ်းပြစိတ်ဓာတ်များစွာတွေထဲက တစ်ခုကတော့ တရားသေဝါဒကင်းလွတ်ပါတယ်။ တကယ် လိုက်မလုပ်ကြည့်ဘဲနဲ့တော့ ဘယ်သိနိုင်မလဲ။ငါတို့လည်းအများကြီးလျှောက်လုပ်ခဲ့တယ်အများစုကတော့ရူးမိုက်မှုတွေပါပဲ။ ",
-	 	   	"ကနဦးစတင်ခြင်းအချို့က အထောက်အကူဖြစ်စေပြီး လှုပ်ရှားမှုကို ထိမ်းထိမ်းသိမ်းသိမ်းနဲ့ မောင်းနှင်အားတစ်ခုလို ဖြစ်စေတယ်။ အများစုကတော့ တိမ်းရှောင်ဖို့ကြိုးစားတယ်။ (မင်းက တစ်ဘို့တည်း ရှင်သန်ဖို့ ရုန်းကန်တာဆို ကောင်းတာပေါ့)",
-	 	   	"“ဘယ်လို” ဆိုတဲ့အရာတွေက နိုင်ခဲတယ်။ ငါတို့ထဲက ဘယ်သူကမှတော့ ငါတို့ ဘာတွေ လုပ်နေခဲ့ကြတယ်ဆိုတာ မဝေခွဲမသိမြင်ဘဲ အမှားများစွာ လုပ်ခဲ့ကြတယ်။",
-	 	   	"ဒီထဲမှာတော့ မင်းတို့ကို “ဘယ်လို” တွေ လုပ်ဆောင်ရမယ်ဆိုတာ ထဲထဲဝင်ဝင် ပြောပြပေးမယ်။ မင်းတို့ ငါတို့လုပ်ခဲ့တဲ့ အမှားမျိုးတွေ ရှောင်ရှားနိုင်တာပေါ့။",
-	 	   	"သတိတော့ထား။ ဟောင်ကောင်က အင်တာနေရှင်နယ် ကျော်ကြားမှုတွေ၊ သယံဇာတ ပေါကြွယ်ဝမှုတွေနဲ့အတူ ဒီဂျစ်တယ်နည်းပညာတွေ တိုးတက်တဲ့ သိပ်သိပ်သည်းသည်း ရှိနေတဲ့ နိုင်ငံတစ်ခု ဖြစ်တယ်။ ငါတို့ အခြေနေခြင်းက ကွာခြားတယ်။ ငါတို့ဘက်ကလည်း တတ်နိုင်သလောက် ငါတို့ရဲ့အရင်းအမြစ်တွေ၊ နည်းလမ်းတွေကို ကာကွယ်ထားချင်တယ်။ အကုန်လုံးတော့ ပြောပြမှာမဟုတ်ဘူး။ မင်းတို့က “ဘယ်လိုလုပ်ရမယ်” ဆိုတာတွေကို လိုက်လျောညီထွေအောင် ပြုပြင်ပြောင်းလဲပြီး ပြဿနာတွေကို ဖြေရှင်းဖို့ လိုပါတယ်။",
-	 	   	"ဒီ လက်စွဲစာစောင်မှာ အပိုင်း (၂) ပိုင်း ပါမယ်။
-	 	   	(၁) ပထမတစ်ပိုင်းက HK19 မှာ ရှိခဲ့တဲ့ ကဏ္ဍ တွေကို ဖော်ပြထားတယ်။
-	 	   	(၂) ဒုတိယတစ်ပိုင်းက ကဏ္ဍအလိုက် ဆန္ဒပြသူတွေအတွက် ဘယ်လိုတွေလုပ်ဆောင်ရမလဲ ဖော်ပြထားတယ်။",
-	 	   	"ငါ တို့ မြန်မာ-အင်္ဂလိပ် နှစ်ဘာသာ ဘာသာပြန်သူတွေကနေ တစ်ဆင့် လူတိုင်း‌ မေးလို့ ရနိုင်မယ့် အမေးအဖြေ ကဏ္ဍ လည်း စီစဉ်ထားတယ်။ (ဘာသာပြန်တွေကိုလည်း ကျေးဇူးတင်ပါတယ်။)" Link တွေကိုတော့ရှာရလွယ်ကူအောင် ညာဘက်ထောင့်ဆုံးက column မှာထည့်ထားပါမယ်။ အမေးအဖြေ ကဏ္ဍ လိုမျိုးပေါ့။",
+			"Take care.  May Peace and Unity be with you."
+		],
+		"mm": ["ချစ်ခင်ရတဲ့ ညီအစ်ကို မောင်နှမတို့ရေ ငါတို့က ဟောင်ကောင်တော်လှန်ရေးမှာ တစ်ထောင့်တစ်နေရာက ပါဝင်ဆင်နွှဲခဲ့ကြသူတွေ ဖြစ်ပါတယ်။ အခု မင်းတို့နိုင်ငံမှာ ဖြစ်ပေါ်နေတဲ့ အခြေအနေ အရပ်ရပ်နဲ့ ပတ်သက်ပြီး စိုးရိမ်ပူပန်ပြီးစိတ်မကောင်းဖြစ်မိပါတယ်။ ဒါ ကြောင့် လွတ်လပ်ပြီး တရားမျှတတဲ့ အဖွဲ့အစည်းတစ်ခု ပြန်ဖြစ်လာဖို့အတွက် ငါတို့တွေ မင်းတို့နဲ့အတူ ဒီတိုက်ပွဲမှာ ရပ်တည်သွားပါမယ်။",
+			"တို့ဟောင်ကောင်က အခြေအနေနဲ့ မြန်မာက အခြေအနေ နဲ့တော့ မတူပါဘူး။ ဒါပေမယ့် ရေရှည်တိုက်ပွဲ အတွက် ကိုယ့်ကိုယ် စိတ်ဓာတ်ခိုင်မာအောင် ပြင်ဆင်ထားဖို့ လိုအပ်ပါတယ်။ အထူးသဖြင့် စစ်တပ်က တရုတ်ကွန်မြူနစ် ပါတီ (CCP)ရဲ့ အထောက်အပံ့တွေ ရထားတဲ့အတွက် ပိုလိုအပ်ပါတယ်။ ပူတင်ရဲ့ အထောက်အပံ့တွေ ရရှိခဲ့တဲ့ ဘီလာရုနိုင်ငံ မှာလည်းအလားတူဖြစ်ရပ် ရှိခဲ့ဖူးပါတယ်။ ပထမတစ်လမှာတော့ ငါတို့လိုပဲ အခြေအနေ သိပ်မဆိုးဝါးသယောင် ရှိခဲ့ပေမယ့် နောက်ပိုင်းမှာတော့ ရက်စက်ကြမ်းကြုတ် အကြမ်းဖက်မှုတွေ ရေရှည်ပိတ်ဆို့ ဖိနှိပ်မှုတွေကို သူတို့ကြုံခဲ့ ရပါတယ်။ ပြည်သူ့ဝန်ထမ်းများ အလုပ်မသွားဘဲ သပိတ်မှောက်ခြင်းကလည်း အာဏာရှင် အစိုးရကိုဖြိုဖျက်ဖို့ အခွင့်အရေးကို နှစ်ဆဖြစ်စေ နိုင်ပါတယ်။ ဒါပေမယ့် အခြေအနေက ခေါင်းပန်းလှန်နေသလိုဖြစ်နေနိုင်ပြီး ၅ နှစ်လောက်ကြာပြီးမှ ၅၄%  လောက်ပုံစံမျိုး ဖြစ်နေနိုင်ပါတယ်။ ၂၄ နှစ်လောက်ကြာပြီးတဲ့နောက် မင်းတို့လည်း သိပါတယ်။",
+			"HK19 တော်လှန်ရေးအတွက် လမ်းပြစိတ်ဓာတ်များစွာတွေထဲက တစ်ခုကတော့ တရားသေဝါဒကင်းလွတ်ပါတယ်။ တကယ် လိုက်မလုပ်ကြည့်ဘဲနဲ့တော့ ဘယ်သိနိုင်မလဲ။ငါတို့လည်းအများကြီးလျှောက်လုပ်ခဲ့တယ်အများစုကတော့ရူးမိုက်မှုတွေပါပဲ။ ",
+			"ကနဦးစတင်ခြင်းအချို့က အထောက်အကူဖြစ်စေပြီး လှုပ်ရှားမှုကို ထိမ်းထိမ်းသိမ်းသိမ်းနဲ့ မောင်းနှင်အားတစ်ခုလို ဖြစ်စေတယ်။ အများစုကတော့ တိမ်းရှောင်ဖို့ကြိုးစားတယ်။ (မင်းက တစ်ဘို့တည်း ရှင်သန်ဖို့ ရုန်းကန်တာဆို ကောင်းတာပေါ့)",
+			"“ဘယ်လို” ဆိုတဲ့အရာတွေက နိုင်ခဲတယ်။ ငါတို့ထဲက ဘယ်သူကမှတော့ ငါတို့ ဘာတွေ လုပ်နေခဲ့ကြတယ်ဆိုတာ မဝေခွဲမသိမြင်ဘဲ အမှားများစွာ လုပ်ခဲ့ကြတယ်။",
+			"ဒီထဲမှာတော့ မင်းတို့ကို “ဘယ်လို” တွေ လုပ်ဆောင်ရမယ်ဆိုတာ ထဲထဲဝင်ဝင် ပြောပြပေးမယ်။ မင်းတို့ ငါတို့လုပ်ခဲ့တဲ့ အမှားမျိုးတွေ ရှောင်ရှားနိုင်တာပေါ့။",
+			"သတိတော့ထား။ ဟောင်ကောင်က အင်တာနေရှင်နယ် ကျော်ကြားမှုတွေ၊ သယံဇာတ ပေါကြွယ်ဝမှုတွေနဲ့အတူ ဒီဂျစ်တယ်နည်းပညာတွေ တိုးတက်တဲ့ သိပ်သိပ်သည်းသည်း ရှိနေတဲ့ နိုင်ငံတစ်ခု ဖြစ်တယ်။ ငါတို့ အခြေနေခြင်းက ကွာခြားတယ်။ ငါတို့ဘက်ကလည်း တတ်နိုင်သလောက် ငါတို့ရဲ့အရင်းအမြစ်တွေ၊ နည်းလမ်းတွေကို ကာကွယ်ထားချင်တယ်။ အကုန်လုံးတော့ ပြောပြမှာမဟုတ်ဘူး။ မင်းတို့က “ဘယ်လိုလုပ်ရမယ်” ဆိုတာတွေကို လိုက်လျောညီထွေအောင် ပြုပြင်ပြောင်းလဲပြီး ပြဿနာတွေကို ဖြေရှင်းဖို့ လိုပါတယ်။",
+			"ဒီ လက်စွဲစာစောင်မှာ အပိုင်း (၂) ပိုင်း ပါမယ်။ (၁) ပထမတစ် ပို င်း က HK19 မှာ ရှိ ခဲ့ တဲ့ ကဏ္ ဍ တွေ ကို ဖော် ပြ ထား တယ်။(၂) ဒု တိ ယတစ် ပို င်း က ကဏ္ ဍအလို က် ဆန္ ဒပြ သူ တွေ အတွ က် ဘယ် လို တွေ လု ပ် ဆော င် ရမလဲ ဖော် ပြ ထား တယ်။ ",
+			"ငါ တို့ မြန်မာ-အင်္ဂလိပ် နှစ်ဘာသာ ဘာသာပြန်သူတွေကနေ တစ်ဆင့် လူတိုင်း‌ မေးလို့ ရနိုင်မယ့် အမေးအဖြေ ကဏ္ဍ လည်း စီစဉ်ထားတယ်။ (ဘာသာပြန်တွေကိုလည်း ကျေးဇူးတင်ပါတယ်။)",
+			"Link တွေ ကို တော့ ရှာ ရလွ ယ် ကူ အော င် ညာ ဘက် ထော င့် ဆုံး က column မှာ ထည့် ထား ပါ မယ်။ အမေး အဖြေ ကဏ္ ဍ လို မျိုး ပေါ့။ ",
 			"တော်လှန်ရေးမှာ လူတန်းစားပေါင်းစုံ (အသက်အရွယ်၊ ကျားမ၊ ပညာအရည်အချင်း၊ ဆင်းရဲချမ်းသာမရွေး) ပါဝင်နိုင်တဲ့အခန်းကဏ္ဍတွေရှိပါတယ်။",
-			"အစစအရာရာ ဂရုစိုက်ပါ။ ငြိမ်းချမ်းခြင်းနဲ့ စည်းလုံးခြင်းက သင်နဲ့ အတူ ရှိပါစေ။"]}
+			"အစစအရာရာ ဂရုစိုက်ပါ။ ငြိမ်းချမ်းခြင်းနဲ့ စည်းလုံးခြင်းက သင်နဲ့ အတူ ရှိပါစေ။"
+		]
+	}
 },
+ 
 {
 	"id":"2",
 	"heading":"This is heading 1",
