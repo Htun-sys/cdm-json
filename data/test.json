@@ -350,16 +350,124 @@
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
 		}
+	},
+	{
+		"id": "24",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "23. Telegram admins (for activity channels)",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "25",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "24. Public activity organizers",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "26",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "25. Mappers",
+		"content": {
+			"hk": ["Mappers convert reports from scouts / reporters / TV into maps.",
+				"In Hong Kong we had Automated maps, and Hand-crafted maps. These two approaches complement one another, and both are quite labor-intensive and require a team to operate",
+				"In the automated, crowd-sourced approach, a web-based interface / app was setup and citizens can easily input what they see directly on the map.  The input is immediately “live” for everyone to see.",
+				"Hand-crafted map team takes the stream of data, which may include the crowd-sourced map, and draw the situation in real-time, applying her experience and analysis to filter, guide, and sometimes project what will soon happen."
+			],
+			"mm": ["Mappers တွေက တီဗီ၊ ကင်းထောက်တွေနဲ့ သတင်းသမားတွေဆီက ရတဲ့ အချက်အလက်တွေကို မြေပုံအဖြစ် ပြောင်းလဲကြပါတယ်။",
+				"ဟောင်ကောင်မှာတော့(၁)အလိုအလျောက်မြေပုံ(၂)လူတွေလက်နဲ့ရေးဆွဲတဲ့ မြေပုံတို့ကို သုံးပြီး ဒီနှစ်ခုဟာ တစ်ခုကို တစ်ခု တည်မှီနေကြပါတယ်။ နှစ်ခုလုံးမှာ လူအင်အား လိုအပ်ပါတယ်။",
+				"လူထုအခြေပြု အလိုအလျောက် မြေပုံမှာတော့ Web ဒါမှမဟုတ် Application ပုံစံ ထားရှိပြီး ဘယ်သူမဆို ကိုယ်မြင်တွေ့သမျှ မြေပုံမှာ လာဖြည့်စွက်နိုင်ပါတယ်။ ဖြည့်စွက်ချက်တွေက လူတိုင်းအတွက် Live ကြည့်ရှုနိုင်မှာပါ။",
+				"လက်နဲ့ စနစ်တကျ ရေးဆွဲတဲ့ မြေပုံမှာတော့ ဒေတာအများအပြား ပါဝင်ပြီး လူထုအခြေပြု မြေပုံကိုလည်း အသုံးပြုပါတယ်။ အမှန်တကယ် ဖြစ်နေတဲ့ အခြေအနေအပေါ် မူတည်ပြီး ရေးဆွဲသူရဲ့ အတွေ့အကြုံ၊ သုံးသပ်စစ်ထုတ်လမ်းညွှန်ချက်တွေနဲ့ တစ်ခါတစ်ရံ မကြာခင် ဘာဖြစ်လာနိုင်လဲ ဆိုတဲ့ စီမံချက်တွေလည်း ပါရှိပါတယ်။ www.hkmap.liveMyanmar Live Map"
+			]
+		}
+	},
+	{
+		"id": "27",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "26. Citizen reporters",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "28",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "27. Reporters",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "29",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "28. Citizen’s Press Conference",
+		"content": {
+			"hk": ["The power imbalance between the State and the citizens is acute.  This extends to what gets shown in the news.  The State can organize press conference to state their point of view, where it then gets repeated and magnified many times by the state-affiliated media.",
+				"The citizens, however, may be interviewed but then only seems to represent a single opinion, easily brushed away",
+				"The Citizen’s Press Conference (CPC) was organized to provide an official venue where the pro-democracy camp can invite the press (incl. Q&A), have bi-lingual (and sign language) translators in place, and thus a greater reach / more authoritative voice while preserving the safety & identity of those attending."
+			],
+			"mm": ["တိုင်းပြည်နဲ့ ပြည်သူတွေရဲ့ အင်အားမညီမျှမှုကတော့ ကြီးမားလှပါတယ်။ ဒါကတော့ နိုင်ငံပိုင် သတင်းမီဒီယာတွေမှာ ဖော်ပြထားတဲ့သတင်းတွေ ကိုကြည့်ခြင်းအားဖြင့်သိနိုင်ပါတယ်။ အစိုးရက သူ့ရဲ့ အမြင် တွေကို ပြောပြနိုင်ဖို့ သတင်းစာရှင်းလင်းပွဲတွေကိုစီစဥ်နိုင်တယ်။ ပြီးတော့ နိုင်ငံပိုင်မီဒီယာတွေကိုအသုံးချပြီး ထပ်တလဲလဲ ဝါဒဖြန့်နိုင်တယ်။",
+				"ပြည်သူတွေအတွက်ကတော့ interview ခံရနိုင်တယ် ဒါပေမယ့် အဲ့တာက အမြင်တစ်ခုထဲကိုဘဲ ဖော်ပြခံရပြီး လွယ်လွယ်ကူကူနဲ့ဘဲ ပျောက်ကွယ်သွားပါတယ်။",
+				"CPC လို့ အတိုကောက် ခေါ်ကြတဲ့ နိုင်ငံသားတွေရဲ့ သတင်းစာ ရှင်းလင်းပွဲဟာ ဒီမိုကရေစီအရေး တက်ကြွလှုပ်ရှားတဲ့ သူတွေ၊ နိုင်ငံရေးသမားတွေက သတင်းသမားတွေကို တရားဝင် ဖိတ််ကြားနိုင်တဲ့ အခမ်းအနား တစ်ခု ဖြစ်တယ်။ (အမေးအဖြေ ကဏ္ဍလည်းပါတယ်) ဘာသာစကား နှစ်မျိုးလုံးအတွက် ဘာသာပြန်တွေ၊ လက်ဟန်ပြ ဘာသာစကားတွေပါ အသုံးပြုကြတဲ့အတွက် ထိထိရောက်ရောက်ရှိပြီး တက်ရောက်ကြတဲ့ သူတွေရဲ့ လုံခြုံရေးအတွက် ပိုပြီးစိတ်ချယုံကြည်ရတဲ့ အသံတွေ ဖြစ်စေတယ်။"
+			]
+		}
+	},
+	{
+		"id": "30",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "29. Telegram admin (information channels)",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "31",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "30. Info Websites",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
+	},
+	{
+		"id": "32",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "31. The Kwan Kung Temple (Press liaison)",
+		"content": {
+			"hk": ["The KKT (a Cantonese word play on Kung Kwan Temple, the “public relations temple”) is a Telegram channel that act as a liaison between the (foreign) press and the local citizens. They receive requests from the press, verifies their identities, and post the interview requests on the channel. Citizens that fit the role can then choose to respond (“to #167”) and the KKT will put both parties in touch.",
+				"Over time, this became an entry point to the HK19 protests, and academics / researchers also find that they have a central contact to safely and reliably reach protestors / citizens in different situation (e.g., gender / age / profession)"
+			],
+			"mm": ["KKT လို့ အတိုကောက်ခေါ်တဲ့ Kung Kwan Temple ဟာ Telegram Channel တစ်ခုဖြစ်ပြီး နိုင်ငံခြား သတင်းဌာနတွေနဲ့ ပြည်သူတွေကြား လျှို့ဝှက်ဆက်သွယ်ရာ နေရာတစ်ခုလည်း ဖြစ်ပါတယ်။ ပြည်သူအစစ်အမှန်ဖြစ်ကြောင်း အတည်ပြုပြီး သတင်းဌာနတွေကနေ တောင်းဆိုချက်တွေ ရရှိနိုင်တယ်၊ ဒီ Channel မှာပဲ အင်တာဗျူးဖို့ တောင်းဆိုတာတွေ လုပ်နိုင်မယ်။ ဖြေဆိုဖို့ သင့်တော်တဲ့ ပြည်သူတွေကို ရွေးချယ်ပြီး KKT(ဆက်သွယ်ရေးတာဝါ)က သတင်းဌာန နဲ့ချိတ်ဆက်ပေးပါတယ်။",
+				"အချိန်နဲ့အညီ ဒါဟာ HK19 ဆန္ဒပြမှုမှာ ပါဝင်ဖို့ ဝင်ပေါက်တစ်ခုလို ဖြစ်လာပါတယ်။ သုတေသန ပညာရှင်တွေ ပညာတတ်တွေကလည်း မတူညီ ကွဲပြားတဲ့ ဆန္ဒပြ ပြည်သူတွေဆီ လုံခြုံစိတ်ချစွာ ဆက်သွယ်နိုင်တယ်လို့ အထင်ရှိစေပါတယ်။"
+			]
+		}
+	},
+	{
+		"id": "33",
+		"heading": "I. The Roles",
+		"subheading": "Information classes",
+		"contentheading": "32. The Calendar",
+		"content": {
+			"hk": ["Under development"],
+			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
+		}
 	}
-
-
-
-
-
-
-
-
-
-
 
 ]
