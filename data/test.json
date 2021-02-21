@@ -102,7 +102,7 @@
 		"id": "5",
 		"heading": "I. The Roles",
 		"subheading": "Physical-based Classes",
-		"contentheading": "2. Fire Magicians",
+		"contentheading": "2. Fire Magicians (Under development)",
 		"content": {
 			"hk": ["Current table is still under development."],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါတယ်"]
@@ -149,7 +149,7 @@
 		"id": "8",
 		"heading": "I. The Roles",
 		"subheading": "Physical-based Classes",
-		"contentheading": "5. Engineers",
+		"contentheading": "5. Engineers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -223,7 +223,7 @@
 		"id": "13",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "12. Social workers",
+		"contentheading": "12. Social workers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -269,7 +269,7 @@
 		"id": "16",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "15. Arrestee Support",
+		"contentheading": "15. Arrestee Support (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -279,7 +279,7 @@
 		"id": "17",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "16. Legal Support",
+		"contentheading": "16. Legal Support (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -289,7 +289,7 @@
 		"id": "18",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "17. Gear Vendors",
+		"contentheading": "17. Gear Vendors (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -315,7 +315,7 @@
 		"id": "20",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "19. The Owners of Gold",
+		"contentheading": "19. The Owners of Gold (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -325,7 +325,7 @@
 		"id": "21",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "20. Yellow Businesses",
+		"contentheading": "20. Yellow Businesses (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -335,7 +335,7 @@
 		"id": "22",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "21. Yellow Business Go-Betweens",
+		"contentheading": "21. Yellow Business Go-Betweens (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -345,7 +345,7 @@
 		"id": "23",
 		"heading": "I. The Roles",
 		"subheading": "Support Classes",
-		"contentheading": "22. Overseas support groups",
+		"contentheading": "22. Overseas support groups (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -365,7 +365,7 @@
 		"id": "25",
 		"heading": "I. The Roles",
 		"subheading": "Information classes",
-		"contentheading": "24. Public activity organizers",
+		"contentheading": "24. Public activity organizers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -393,7 +393,7 @@
 		"id": "27",
 		"heading": "I. The Roles",
 		"subheading": "Information classes",
-		"contentheading": "26. Citizen reporters",
+		"contentheading": "26. Citizen reporters (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -403,7 +403,7 @@
 		"id": "28",
 		"heading": "I. The Roles",
 		"subheading": "Information classes",
-		"contentheading": "27. Reporters",
+		"contentheading": "27. Reporters (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -439,7 +439,7 @@
 		"id": "31",
 		"heading": "I. The Roles",
 		"subheading": "Information classes",
-		"contentheading": "30. Info Websites",
+		"contentheading": "30. Info Websites (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -463,7 +463,7 @@
 		"id": "33",
 		"heading": "I. The Roles",
 		"subheading": "Information classes",
-		"contentheading": "32. The Calendar",
+		"contentheading": "32. The Calendar (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -493,7 +493,7 @@
 		"id": "35",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "34. Admin - Facebook Pages",
+		"contentheading": "34. Admin - Facebook Pages (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -503,7 +503,7 @@
 		"id": "36",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "35. Admin - Instagram",
+		"contentheading": "35. Admin - Instagram (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -513,7 +513,7 @@
 		"id": "37",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "36. LIHKG Ground-washing Crew",
+		"contentheading": "36. LIHKG Ground-washing Crew (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -523,7 +523,7 @@
 		"id": "38",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "37. Petition Drummers",
+		"contentheading": "37. Petition Drummers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -533,7 +533,7 @@
 		"id": "39",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "38. Twitter trenches",
+		"contentheading": "38. Twitter trenches (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -543,7 +543,7 @@
 		"id": "40",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "39. Reddit",
+		"contentheading": "39. Reddit (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -554,7 +554,7 @@
 		"id": "41",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "40. Apps",
+		"contentheading": "40. Apps (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -564,7 +564,7 @@
 		"id": "42",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "41. YouTube",
+		"contentheading": "41. YouTube (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -574,7 +574,7 @@
 		"id": "43",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "42. The Score-Settling Accountants",
+		"contentheading": "42. The Score-Settling Accountants (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -584,7 +584,7 @@
 		"id": "44",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "43. Platform Owners(LIHKG)",
+		"contentheading": "43. Platform Owners(LIHKG) (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -595,7 +595,7 @@
 		"id": "45",
 		"heading": "I. The Roles",
 		"subheading": "The Keyboard Fighters",
-		"contentheading": "44. Advertising Snipers",
+		"contentheading": "44. Advertising Snipers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -639,7 +639,7 @@
 		"id": "48",
 		"heading": "I. The Roles",
 		"subheading": "Art & Publicity Classes",
-		"contentheading": "47. Photographers",
+		"contentheading": "47. Photographers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -649,7 +649,7 @@
 		"id": "49",
 		"heading": "I. The Roles",
 		"subheading": "Art & Publicity Classes",
-		"contentheading": "48. Writers",
+		"contentheading": "48. Writers (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -659,7 +659,7 @@
 		"id": "50",
 		"heading": "I. The Roles",
 		"subheading": "Art & Publicity Classes",
-		"contentheading": "49. Pamphlet & Magazine Teams",
+		"contentheading": "49. Pamphlet & Magazine Teams (Under development)",
 		"content": {
 			"hk": ["Under development"],
 			"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -701,7 +701,7 @@
 	"id":"53",
 	"heading":"I. The Roles",
 	"subheading":"The Politicals",
-	"contentheading": "52. Legislators",
+	"contentheading": "52. Legislators (Under development)",
 	"content": {
 	"hk":["Under development"],
 	"mm": ["ဘာသာပြန်ဆိုဆဲဖြစ်ပါသည်။"]
@@ -721,7 +721,7 @@
 	"id":"55",
 	"heading":"I. The Roles",
 	"subheading":"The Politicals",
-	"contentheading": "54. The Elders (Under development)",
+	"contentheading": "54. The Elders",
 	"content": {
 	"hk":["Elders (seniors; old people) play an incredibly important role in EVERY social movement.  Everybody came from grandfathers and grandmothers, and when they speak out for a cause, they are often listened to more carefully and with greater reverence.",
 		"In HK, many of our elders lived through the horrors of the Communist reign (Great Leap Forward, Cultural Revolution) and saw in real time the 1989 Tiananmen Mass.  They appreciate and embody the values of a progressive society with a fair legal system, free from corruption, free speech and free press, and despite their ailing bodies are willing to do something for the younger generation. These elders united and called themselves the “Silver Haired Tribe”; they held marches and events of their own, at the beginning surprising the youngsters and quickly won their respect and affection. <img src='img/54_The_Elders_1.jpg' class='table_img'>",
